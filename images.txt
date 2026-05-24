@@ -1,5 +1,5 @@
 ghcr.io/ggml-org/llama.cpp:full-cuda
-ghcr.io/vllm-project/vllm-openai
+ghcr.io/ggml-org/llama.cpp:server-cuda
 #支持私库
 
 
